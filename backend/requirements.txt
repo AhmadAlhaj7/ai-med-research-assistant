@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+pydantic
+pdfplumber
+openai
+pinecone-client
+spacy
